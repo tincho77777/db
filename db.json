@@ -120,5 +120,30 @@
       "Nro. Orden de Pago": "-------",
       "Estado": "Rechazada"
     }
+  ],
+  "Datos de Factura": [{
+      "Beneficiario": 3251,
+      "Fecha de Factura": 21548,
+      "Tipo Factura": "-------",
+      "Sucursal": "-------",
+      "Nro. Factura": 12548975,
+      "Importe Neto": 3251,
+      "Importe Total": 3251,
+      "Nro. de Reposición": 3251,
+      "Nro. Orden de Pago": 3251,
+      "Estado": "Pendiente"
+    },
+    {
+      "Beneficiario": 3251,
+      "Fecha de Factura": 21548,
+      "Tipo Factura": "-------",
+      "Sucursal": "-------",
+      "Nro. Factura": 12548975,
+      "Importe Neto": 3251,
+      "Importe Total": 3251,
+      "Nro. de Reposición": 3251,
+      "Nro. Orden de Pago": 3251,
+      "Estado": "Rechazada"
+    }
   ]
 }
