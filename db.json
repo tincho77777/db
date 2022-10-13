@@ -121,7 +121,7 @@
       "Estado": "Rechazada"
     }
   ],
-  "Datos de Factura": [{
+  "datos-de-factura": [{
       "Beneficiario": 3251,
       "Fecha de Factura": 21548,
       "Tipo Factura": "-------",
